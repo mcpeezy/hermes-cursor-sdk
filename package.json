@@ -1,0 +1,9 @@
+{
+  "name": "hermes-cursor-sdk",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {"node": ">=22.13"},
+  "scripts": {"test": "node --experimental-vm-modules --test tests/*.test.mjs"},
+  "dependencies": {"@cursor/sdk": "1.0.37"}
+}

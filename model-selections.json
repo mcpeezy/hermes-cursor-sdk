@@ -1,0 +1,8369 @@
+{
+  "default": {
+    "id": "default",
+    "params": []
+  },
+  "grok-4.7": {
+    "id": "grok-4.7",
+    "params": []
+  },
+  "grok-4.7@context=256k,reasoning_effort=low,fast=false": {
+    "id": "grok-4.7",
+    "params": [
+      {
+        "id": "context",
+        "value": "256k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "grok-4.7@context=256k,reasoning_effort=low,fast=true": {
+    "id": "grok-4.7",
+    "params": [
+      {
+        "id": "context",
+        "value": "256k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "grok-4.7@context=256k,reasoning_effort=medium,fast=false": {
+    "id": "grok-4.7",
+    "params": [
+      {
+        "id": "context",
+        "value": "256k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "grok-4.7@context=256k,reasoning_effort=medium,fast=true": {
+    "id": "grok-4.7",
+    "params": [
+      {
+        "id": "context",
+        "value": "256k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "grok-4.7@context=256k,reasoning_effort=high,fast=false": {
+    "id": "grok-4.7",
+    "params": [
+      {
+        "id": "context",
+        "value": "256k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "grok-4.7@context=256k,reasoning_effort=high,fast=true": {
+    "id": "grok-4.7",
+    "params": [
+      {
+        "id": "context",
+        "value": "256k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "grok-4.7@context=256k,reasoning_effort=xhigh,fast=false": {
+    "id": "grok-4.7",
+    "params": [
+      {
+        "id": "context",
+        "value": "256k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "grok-4.7@context=256k,reasoning_effort=xhigh,fast=true": {
+    "id": "grok-4.7",
+    "params": [
+      {
+        "id": "context",
+        "value": "256k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "grok-4.7@context=500k,reasoning_effort=low,fast=false": {
+    "id": "grok-4.7",
+    "params": [
+      {
+        "id": "context",
+        "value": "500k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "grok-4.7@context=500k,reasoning_effort=low,fast=true": {
+    "id": "grok-4.7",
+    "params": [
+      {
+        "id": "context",
+        "value": "500k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "grok-4.7@context=500k,reasoning_effort=medium,fast=false": {
+    "id": "grok-4.7",
+    "params": [
+      {
+        "id": "context",
+        "value": "500k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "grok-4.7@context=500k,reasoning_effort=medium,fast=true": {
+    "id": "grok-4.7",
+    "params": [
+      {
+        "id": "context",
+        "value": "500k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "grok-4.7@context=500k,reasoning_effort=high,fast=false": {
+    "id": "grok-4.7",
+    "params": [
+      {
+        "id": "context",
+        "value": "500k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "grok-4.7@context=500k,reasoning_effort=high,fast=true": {
+    "id": "grok-4.7",
+    "params": [
+      {
+        "id": "context",
+        "value": "500k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "grok-4.7@context=500k,reasoning_effort=xhigh,fast=false": {
+    "id": "grok-4.7",
+    "params": [
+      {
+        "id": "context",
+        "value": "500k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "grok-4.7@context=500k,reasoning_effort=xhigh,fast=true": {
+    "id": "grok-4.7",
+    "params": [
+      {
+        "id": "context",
+        "value": "500k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "grok-4.6": {
+    "id": "grok-4.6",
+    "params": []
+  },
+  "grok-4.6@effort=low,fast=false": {
+    "id": "grok-4.6",
+    "params": [
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "grok-4.6@effort=low,fast=true": {
+    "id": "grok-4.6",
+    "params": [
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "grok-4.6@effort=medium,fast=false": {
+    "id": "grok-4.6",
+    "params": [
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "grok-4.6@effort=medium,fast=true": {
+    "id": "grok-4.6",
+    "params": [
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "grok-4.6@effort=high,fast=false": {
+    "id": "grok-4.6",
+    "params": [
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "grok-4.6@effort=high,fast=true": {
+    "id": "grok-4.6",
+    "params": [
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "grok-4.6@effort=xhigh,fast=false": {
+    "id": "grok-4.6",
+    "params": [
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "grok-4.6@effort=xhigh,fast=true": {
+    "id": "grok-4.6",
+    "params": [
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "composer-2.5": {
+    "id": "composer-2.5",
+    "params": []
+  },
+  "composer-2.5@fast=true": {
+    "id": "composer-2.5",
+    "params": [
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "composer-2.5@fast=false": {
+    "id": "composer-2.5",
+    "params": [
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5-5": {
+    "id": "claude-opus-5-5",
+    "params": []
+  },
+  "claude-opus-5-5@context=300k,effort=low,fast=false": {
+    "id": "claude-opus-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5-5@context=300k,effort=low,fast=true": {
+    "id": "claude-opus-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5-5@context=300k,effort=medium,fast=false": {
+    "id": "claude-opus-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5-5@context=300k,effort=medium,fast=true": {
+    "id": "claude-opus-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5-5@context=300k,effort=high,fast=false": {
+    "id": "claude-opus-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5-5@context=300k,effort=high,fast=true": {
+    "id": "claude-opus-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5-5@context=300k,effort=xhigh,fast=false": {
+    "id": "claude-opus-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5-5@context=300k,effort=xhigh,fast=true": {
+    "id": "claude-opus-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5-5@context=300k,effort=max,fast=false": {
+    "id": "claude-opus-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5-5@context=300k,effort=max,fast=true": {
+    "id": "claude-opus-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5-5@context=1m,effort=low,fast=false": {
+    "id": "claude-opus-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5-5@context=1m,effort=low,fast=true": {
+    "id": "claude-opus-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5-5@context=1m,effort=medium,fast=false": {
+    "id": "claude-opus-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5-5@context=1m,effort=medium,fast=true": {
+    "id": "claude-opus-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5-5@context=1m,effort=high,fast=false": {
+    "id": "claude-opus-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5-5@context=1m,effort=high,fast=true": {
+    "id": "claude-opus-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5-5@context=1m,effort=xhigh,fast=false": {
+    "id": "claude-opus-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5-5@context=1m,effort=xhigh,fast=true": {
+    "id": "claude-opus-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5-5@context=1m,effort=max,fast=false": {
+    "id": "claude-opus-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5-5@context=1m,effort=max,fast=true": {
+    "id": "claude-opus-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5": {
+    "id": "claude-opus-5",
+    "params": []
+  },
+  "claude-opus-5@cyber=false,thinking=false,context=300k,effort=low,fast=false": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=false,context=300k,effort=low,fast=true": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=false,context=300k,effort=medium,fast=false": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=false,context=300k,effort=medium,fast=true": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=false,context=300k,effort=high,fast=false": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=false,context=300k,effort=high,fast=true": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=false,context=1m,effort=low,fast=false": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=false,context=1m,effort=low,fast=true": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=false,context=1m,effort=medium,fast=false": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=false,context=1m,effort=medium,fast=true": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=false,context=1m,effort=high,fast=false": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=false,context=1m,effort=high,fast=true": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=true,context=300k,effort=low,fast=false": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=true,context=300k,effort=low,fast=true": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=true,context=300k,effort=medium,fast=false": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=true,context=300k,effort=medium,fast=true": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=true,context=300k,effort=high,fast=false": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=true,context=300k,effort=high,fast=true": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=true,context=300k,effort=xhigh,fast=false": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=true,context=300k,effort=xhigh,fast=true": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=true,context=300k,effort=max,fast=false": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=true,context=300k,effort=max,fast=true": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=true,context=1m,effort=low,fast=false": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=true,context=1m,effort=low,fast=true": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=true,context=1m,effort=medium,fast=false": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=true,context=1m,effort=medium,fast=true": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=true,context=1m,effort=high,fast=false": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=true,context=1m,effort=high,fast=true": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=true,context=1m,effort=xhigh,fast=false": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=true,context=1m,effort=xhigh,fast=true": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=true,context=1m,effort=max,fast=false": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-5@cyber=false,thinking=true,context=1m,effort=max,fast=true": {
+    "id": "claude-opus-5",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-8": {
+    "id": "claude-opus-4-8",
+    "params": []
+  },
+  "claude-opus-4-8@cyber=false,thinking=false,context=300k,effort=low,fast=false": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=false,context=300k,effort=low,fast=true": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=false,context=300k,effort=medium,fast=false": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=false,context=300k,effort=medium,fast=true": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=false,context=300k,effort=high,fast=false": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=false,context=300k,effort=high,fast=true": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=false,context=300k,effort=xhigh,fast=false": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=false,context=300k,effort=xhigh,fast=true": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=false,context=300k,effort=max,fast=false": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=false,context=300k,effort=max,fast=true": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=false,context=1m,effort=low,fast=false": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=false,context=1m,effort=low,fast=true": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=false,context=1m,effort=medium,fast=false": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=false,context=1m,effort=medium,fast=true": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=false,context=1m,effort=high,fast=false": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=false,context=1m,effort=high,fast=true": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=false,context=1m,effort=xhigh,fast=false": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=false,context=1m,effort=xhigh,fast=true": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=false,context=1m,effort=max,fast=false": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=false,context=1m,effort=max,fast=true": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=true,context=300k,effort=low,fast=false": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=true,context=300k,effort=low,fast=true": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=true,context=300k,effort=medium,fast=false": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=true,context=300k,effort=medium,fast=true": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=true,context=300k,effort=high,fast=false": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=true,context=300k,effort=high,fast=true": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=true,context=300k,effort=xhigh,fast=false": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=true,context=300k,effort=xhigh,fast=true": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=true,context=300k,effort=max,fast=false": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=true,context=300k,effort=max,fast=true": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=true,context=1m,effort=low,fast=false": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=true,context=1m,effort=low,fast=true": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=true,context=1m,effort=medium,fast=false": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=true,context=1m,effort=medium,fast=true": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=true,context=1m,effort=high,fast=false": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=true,context=1m,effort=high,fast=true": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=true,context=1m,effort=xhigh,fast=false": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=true,context=1m,effort=xhigh,fast=true": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=true,context=1m,effort=max,fast=false": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-8@cyber=false,thinking=true,context=1m,effort=max,fast=true": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-sol": {
+    "id": "gpt-5.6-sol",
+    "params": []
+  },
+  "gpt-5.6-sol@context=272k,reasoning=none,fast=false": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "none"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=272k,reasoning=none,fast=true": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "none"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=272k,reasoning=low,fast=false": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=272k,reasoning=low,fast=true": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=272k,reasoning=medium,fast=false": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=272k,reasoning=medium,fast=true": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=272k,reasoning=high,fast=false": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=272k,reasoning=high,fast=true": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=272k,reasoning=xhigh,fast=false": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=272k,reasoning=xhigh,fast=true": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=272k,reasoning=max,fast=false": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=272k,reasoning=max,fast=true": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=1m,reasoning=none,fast=false": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "none"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=1m,reasoning=none,fast=true": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "none"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=1m,reasoning=low,fast=false": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=1m,reasoning=low,fast=true": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=1m,reasoning=medium,fast=false": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=1m,reasoning=medium,fast=true": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=1m,reasoning=high,fast=false": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=1m,reasoning=high,fast=true": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=1m,reasoning=xhigh,fast=false": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=1m,reasoning=xhigh,fast=true": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=1m,reasoning=max,fast=false": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-sol@context=1m,reasoning=max,fast=true": {
+    "id": "gpt-5.6-sol",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gemini-4-argon": {
+    "id": "gemini-4-argon",
+    "params": []
+  },
+  "gemini-4-argon@reasoning_effort=low": {
+    "id": "gemini-4-argon",
+    "params": [
+      {
+        "id": "reasoning_effort",
+        "value": "low"
+      }
+    ]
+  },
+  "gemini-4-argon@reasoning_effort=medium": {
+    "id": "gemini-4-argon",
+    "params": [
+      {
+        "id": "reasoning_effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "gemini-4-argon@reasoning_effort=high": {
+    "id": "gemini-4-argon",
+    "params": [
+      {
+        "id": "reasoning_effort",
+        "value": "high"
+      }
+    ]
+  },
+  "gpt-5.5": {
+    "id": "gpt-5.5",
+    "params": []
+  },
+  "gpt-5.5@context=272k,reasoning=none,fast=false": {
+    "id": "gpt-5.5",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "none"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.5@context=272k,reasoning=none,fast=true": {
+    "id": "gpt-5.5",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "none"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.5@context=272k,reasoning=low,fast=false": {
+    "id": "gpt-5.5",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.5@context=272k,reasoning=low,fast=true": {
+    "id": "gpt-5.5",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.5@context=272k,reasoning=medium,fast=false": {
+    "id": "gpt-5.5",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.5@context=272k,reasoning=medium,fast=true": {
+    "id": "gpt-5.5",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.5@context=272k,reasoning=high,fast=false": {
+    "id": "gpt-5.5",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.5@context=272k,reasoning=high,fast=true": {
+    "id": "gpt-5.5",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.5@context=272k,reasoning=extra-high,fast=false": {
+    "id": "gpt-5.5",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "extra-high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.5@context=272k,reasoning=extra-high,fast=true": {
+    "id": "gpt-5.5",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "extra-high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.5@context=1m,reasoning=none,fast=false": {
+    "id": "gpt-5.5",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "none"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.5@context=1m,reasoning=low,fast=false": {
+    "id": "gpt-5.5",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.5@context=1m,reasoning=medium,fast=false": {
+    "id": "gpt-5.5",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.5@context=1m,reasoning=high,fast=false": {
+    "id": "gpt-5.5",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.5@context=1m,reasoning=extra-high,fast=false": {
+    "id": "gpt-5.5",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "extra-high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-fable-5-1": {
+    "id": "claude-fable-5-1",
+    "params": []
+  },
+  "claude-fable-5-1@thinking=false,context=300k,effort=low": {
+    "id": "claude-fable-5-1",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-fable-5-1@thinking=false,context=300k,effort=medium": {
+    "id": "claude-fable-5-1",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-fable-5-1@thinking=false,context=300k,effort=high": {
+    "id": "claude-fable-5-1",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-fable-5-1@thinking=false,context=300k,effort=xhigh": {
+    "id": "claude-fable-5-1",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "claude-fable-5-1@thinking=false,context=300k,effort=max": {
+    "id": "claude-fable-5-1",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-fable-5-1@thinking=false,context=1m,effort=low": {
+    "id": "claude-fable-5-1",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-fable-5-1@thinking=false,context=1m,effort=medium": {
+    "id": "claude-fable-5-1",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-fable-5-1@thinking=false,context=1m,effort=high": {
+    "id": "claude-fable-5-1",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-fable-5-1@thinking=false,context=1m,effort=xhigh": {
+    "id": "claude-fable-5-1",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "claude-fable-5-1@thinking=false,context=1m,effort=max": {
+    "id": "claude-fable-5-1",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-fable-5-1@thinking=true,context=300k,effort=low": {
+    "id": "claude-fable-5-1",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-fable-5-1@thinking=true,context=300k,effort=medium": {
+    "id": "claude-fable-5-1",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-fable-5-1@thinking=true,context=300k,effort=high": {
+    "id": "claude-fable-5-1",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-fable-5-1@thinking=true,context=300k,effort=xhigh": {
+    "id": "claude-fable-5-1",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "claude-fable-5-1@thinking=true,context=300k,effort=max": {
+    "id": "claude-fable-5-1",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-fable-5-1@thinking=true,context=1m,effort=low": {
+    "id": "claude-fable-5-1",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-fable-5-1@thinking=true,context=1m,effort=medium": {
+    "id": "claude-fable-5-1",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-fable-5-1@thinking=true,context=1m,effort=high": {
+    "id": "claude-fable-5-1",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-fable-5-1@thinking=true,context=1m,effort=xhigh": {
+    "id": "claude-fable-5-1",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "claude-fable-5-1@thinking=true,context=1m,effort=max": {
+    "id": "claude-fable-5-1",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-fable-5": {
+    "id": "claude-fable-5",
+    "params": []
+  },
+  "claude-fable-5@thinking=false,context=300k,effort=low": {
+    "id": "claude-fable-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-fable-5@thinking=false,context=300k,effort=medium": {
+    "id": "claude-fable-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-fable-5@thinking=false,context=300k,effort=high": {
+    "id": "claude-fable-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-fable-5@thinking=false,context=300k,effort=xhigh": {
+    "id": "claude-fable-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "claude-fable-5@thinking=false,context=300k,effort=max": {
+    "id": "claude-fable-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-fable-5@thinking=false,context=1m,effort=low": {
+    "id": "claude-fable-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-fable-5@thinking=false,context=1m,effort=medium": {
+    "id": "claude-fable-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-fable-5@thinking=false,context=1m,effort=high": {
+    "id": "claude-fable-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-fable-5@thinking=false,context=1m,effort=xhigh": {
+    "id": "claude-fable-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "claude-fable-5@thinking=false,context=1m,effort=max": {
+    "id": "claude-fable-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-fable-5@thinking=true,context=300k,effort=low": {
+    "id": "claude-fable-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-fable-5@thinking=true,context=300k,effort=medium": {
+    "id": "claude-fable-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-fable-5@thinking=true,context=300k,effort=high": {
+    "id": "claude-fable-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-fable-5@thinking=true,context=300k,effort=xhigh": {
+    "id": "claude-fable-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "claude-fable-5@thinking=true,context=300k,effort=max": {
+    "id": "claude-fable-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-fable-5@thinking=true,context=1m,effort=low": {
+    "id": "claude-fable-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-fable-5@thinking=true,context=1m,effort=medium": {
+    "id": "claude-fable-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-fable-5@thinking=true,context=1m,effort=high": {
+    "id": "claude-fable-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-fable-5@thinking=true,context=1m,effort=xhigh": {
+    "id": "claude-fable-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "claude-fable-5@thinking=true,context=1m,effort=max": {
+    "id": "claude-fable-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "grok-4.5": {
+    "id": "grok-4.5",
+    "params": []
+  },
+  "grok-4.5@effort=low,fast=false": {
+    "id": "grok-4.5",
+    "params": [
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "grok-4.5@effort=low,fast=true": {
+    "id": "grok-4.5",
+    "params": [
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "grok-4.5@effort=medium,fast=false": {
+    "id": "grok-4.5",
+    "params": [
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "grok-4.5@effort=medium,fast=true": {
+    "id": "grok-4.5",
+    "params": [
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "grok-4.5@effort=high,fast=false": {
+    "id": "grok-4.5",
+    "params": [
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "grok-4.5@effort=high,fast=true": {
+    "id": "grok-4.5",
+    "params": [
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gemini-3.8-flash": {
+    "id": "gemini-3.8-flash",
+    "params": []
+  },
+  "gemini-3.8-flash@reasoning_effort=low": {
+    "id": "gemini-3.8-flash",
+    "params": [
+      {
+        "id": "reasoning_effort",
+        "value": "low"
+      }
+    ]
+  },
+  "gemini-3.8-flash@reasoning_effort=medium": {
+    "id": "gemini-3.8-flash",
+    "params": [
+      {
+        "id": "reasoning_effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "gemini-3.8-flash@reasoning_effort=high": {
+    "id": "gemini-3.8-flash",
+    "params": [
+      {
+        "id": "reasoning_effort",
+        "value": "high"
+      }
+    ]
+  },
+  "gemini-3.7-flash": {
+    "id": "gemini-3.7-flash",
+    "params": []
+  },
+  "gemini-3.7-flash@effort=low": {
+    "id": "gemini-3.7-flash",
+    "params": [
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "gemini-3.7-flash@effort=medium": {
+    "id": "gemini-3.7-flash",
+    "params": [
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "gemini-3.7-flash@effort=high": {
+    "id": "gemini-3.7-flash",
+    "params": [
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "muse-spark-1.3": {
+    "id": "muse-spark-1.3",
+    "params": []
+  },
+  "muse-spark-1.3@context=300k,effort=minimal": {
+    "id": "muse-spark-1.3",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "minimal"
+      }
+    ]
+  },
+  "muse-spark-1.3@context=300k,effort=low": {
+    "id": "muse-spark-1.3",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "muse-spark-1.3@context=300k,effort=medium": {
+    "id": "muse-spark-1.3",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "muse-spark-1.3@context=300k,effort=high": {
+    "id": "muse-spark-1.3",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "muse-spark-1.3@context=300k,effort=xhigh": {
+    "id": "muse-spark-1.3",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "muse-spark-1.3@context=300k,effort=max": {
+    "id": "muse-spark-1.3",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "muse-spark-1.3@context=1m,effort=minimal": {
+    "id": "muse-spark-1.3",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "minimal"
+      }
+    ]
+  },
+  "muse-spark-1.3@context=1m,effort=low": {
+    "id": "muse-spark-1.3",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "muse-spark-1.3@context=1m,effort=medium": {
+    "id": "muse-spark-1.3",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "muse-spark-1.3@context=1m,effort=high": {
+    "id": "muse-spark-1.3",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "muse-spark-1.3@context=1m,effort=xhigh": {
+    "id": "muse-spark-1.3",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "muse-spark-1.3@context=1m,effort=max": {
+    "id": "muse-spark-1.3",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "gpt-5.6-terra": {
+    "id": "gpt-5.6-terra",
+    "params": []
+  },
+  "gpt-5.6-terra@context=272k,reasoning=none,fast=false": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "none"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=272k,reasoning=none,fast=true": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "none"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=272k,reasoning=low,fast=false": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=272k,reasoning=low,fast=true": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=272k,reasoning=medium,fast=false": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=272k,reasoning=medium,fast=true": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=272k,reasoning=high,fast=false": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=272k,reasoning=high,fast=true": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=272k,reasoning=xhigh,fast=false": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=272k,reasoning=xhigh,fast=true": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=272k,reasoning=max,fast=false": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=272k,reasoning=max,fast=true": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=1m,reasoning=none,fast=false": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "none"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=1m,reasoning=none,fast=true": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "none"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=1m,reasoning=low,fast=false": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=1m,reasoning=low,fast=true": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=1m,reasoning=medium,fast=false": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=1m,reasoning=medium,fast=true": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=1m,reasoning=high,fast=false": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=1m,reasoning=high,fast=true": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=1m,reasoning=xhigh,fast=false": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=1m,reasoning=xhigh,fast=true": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=1m,reasoning=max,fast=false": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-terra@context=1m,reasoning=max,fast=true": {
+    "id": "gpt-5.6-terra",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-sonnet-5-5": {
+    "id": "claude-sonnet-5-5",
+    "params": []
+  },
+  "claude-sonnet-5-5@context=300k,reasoning_effort=low": {
+    "id": "claude-sonnet-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-sonnet-5-5@context=300k,reasoning_effort=medium": {
+    "id": "claude-sonnet-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-sonnet-5-5@context=300k,reasoning_effort=high": {
+    "id": "claude-sonnet-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-sonnet-5-5@context=300k,reasoning_effort=xhigh": {
+    "id": "claude-sonnet-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "claude-sonnet-5-5@context=300k,reasoning_effort=max": {
+    "id": "claude-sonnet-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-sonnet-5-5@context=1m,reasoning_effort=low": {
+    "id": "claude-sonnet-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-sonnet-5-5@context=1m,reasoning_effort=medium": {
+    "id": "claude-sonnet-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-sonnet-5-5@context=1m,reasoning_effort=high": {
+    "id": "claude-sonnet-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-sonnet-5-5@context=1m,reasoning_effort=xhigh": {
+    "id": "claude-sonnet-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "claude-sonnet-5-5@context=1m,reasoning_effort=max": {
+    "id": "claude-sonnet-5-5",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-sonnet-5": {
+    "id": "claude-sonnet-5",
+    "params": []
+  },
+  "claude-sonnet-5@thinking=false,context=300k,effort=low": {
+    "id": "claude-sonnet-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-sonnet-5@thinking=false,context=300k,effort=medium": {
+    "id": "claude-sonnet-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-sonnet-5@thinking=false,context=300k,effort=high": {
+    "id": "claude-sonnet-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-sonnet-5@thinking=false,context=300k,effort=xhigh": {
+    "id": "claude-sonnet-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "claude-sonnet-5@thinking=false,context=300k,effort=max": {
+    "id": "claude-sonnet-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-sonnet-5@thinking=false,context=1m,effort=low": {
+    "id": "claude-sonnet-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-sonnet-5@thinking=false,context=1m,effort=medium": {
+    "id": "claude-sonnet-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-sonnet-5@thinking=false,context=1m,effort=high": {
+    "id": "claude-sonnet-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-sonnet-5@thinking=false,context=1m,effort=xhigh": {
+    "id": "claude-sonnet-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "claude-sonnet-5@thinking=false,context=1m,effort=max": {
+    "id": "claude-sonnet-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-sonnet-5@thinking=true,context=300k,effort=low": {
+    "id": "claude-sonnet-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-sonnet-5@thinking=true,context=300k,effort=medium": {
+    "id": "claude-sonnet-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-sonnet-5@thinking=true,context=300k,effort=high": {
+    "id": "claude-sonnet-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-sonnet-5@thinking=true,context=300k,effort=xhigh": {
+    "id": "claude-sonnet-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "claude-sonnet-5@thinking=true,context=300k,effort=max": {
+    "id": "claude-sonnet-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-sonnet-5@thinking=true,context=1m,effort=low": {
+    "id": "claude-sonnet-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-sonnet-5@thinking=true,context=1m,effort=medium": {
+    "id": "claude-sonnet-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-sonnet-5@thinking=true,context=1m,effort=high": {
+    "id": "claude-sonnet-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-sonnet-5@thinking=true,context=1m,effort=xhigh": {
+    "id": "claude-sonnet-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "claude-sonnet-5@thinking=true,context=1m,effort=max": {
+    "id": "claude-sonnet-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-sonnet-4-6": {
+    "id": "claude-sonnet-4-6",
+    "params": []
+  },
+  "claude-sonnet-4-6@thinking=false,context=200k,effort=low": {
+    "id": "claude-sonnet-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "200k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-sonnet-4-6@thinking=false,context=200k,effort=medium": {
+    "id": "claude-sonnet-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "200k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-sonnet-4-6@thinking=false,context=200k,effort=high": {
+    "id": "claude-sonnet-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "200k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-sonnet-4-6@thinking=false,context=200k,effort=max": {
+    "id": "claude-sonnet-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "200k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-sonnet-4-6@thinking=false,context=1m,effort=low": {
+    "id": "claude-sonnet-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-sonnet-4-6@thinking=false,context=1m,effort=medium": {
+    "id": "claude-sonnet-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-sonnet-4-6@thinking=false,context=1m,effort=high": {
+    "id": "claude-sonnet-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-sonnet-4-6@thinking=false,context=1m,effort=max": {
+    "id": "claude-sonnet-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-sonnet-4-6@thinking=true,context=200k,effort=low": {
+    "id": "claude-sonnet-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "200k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-sonnet-4-6@thinking=true,context=200k,effort=medium": {
+    "id": "claude-sonnet-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "200k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-sonnet-4-6@thinking=true,context=200k,effort=high": {
+    "id": "claude-sonnet-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "200k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-sonnet-4-6@thinking=true,context=200k,effort=max": {
+    "id": "claude-sonnet-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "200k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-sonnet-4-6@thinking=true,context=1m,effort=low": {
+    "id": "claude-sonnet-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-sonnet-4-6@thinking=true,context=1m,effort=medium": {
+    "id": "claude-sonnet-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-sonnet-4-6@thinking=true,context=1m,effort=high": {
+    "id": "claude-sonnet-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-sonnet-4-6@thinking=true,context=1m,effort=max": {
+    "id": "claude-sonnet-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "composer-2": {
+    "id": "composer-2",
+    "params": []
+  },
+  "composer-2@fast=true": {
+    "id": "composer-2",
+    "params": [
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "composer-2@fast=false": {
+    "id": "composer-2",
+    "params": [
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.3-codex": {
+    "id": "gpt-5.3-codex",
+    "params": []
+  },
+  "gpt-5.3-codex@reasoning=low,fast=false": {
+    "id": "gpt-5.3-codex",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.3-codex@reasoning=low,fast=true": {
+    "id": "gpt-5.3-codex",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.3-codex@reasoning=medium,fast=false": {
+    "id": "gpt-5.3-codex",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.3-codex@reasoning=medium,fast=true": {
+    "id": "gpt-5.3-codex",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.3-codex@reasoning=high,fast=false": {
+    "id": "gpt-5.3-codex",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.3-codex@reasoning=high,fast=true": {
+    "id": "gpt-5.3-codex",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.3-codex@reasoning=extra-high,fast=false": {
+    "id": "gpt-5.3-codex",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "extra-high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.3-codex@reasoning=extra-high,fast=true": {
+    "id": "gpt-5.3-codex",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "extra-high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-7": {
+    "id": "claude-opus-4-7",
+    "params": []
+  },
+  "claude-opus-4-7@cyber=false,thinking=false,context=300k,effort=low,fast=false": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=false,context=300k,effort=low,fast=true": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=false,context=300k,effort=medium,fast=false": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=false,context=300k,effort=medium,fast=true": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=false,context=300k,effort=high,fast=false": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=false,context=300k,effort=high,fast=true": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=false,context=300k,effort=xhigh,fast=false": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=false,context=300k,effort=xhigh,fast=true": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=false,context=300k,effort=max,fast=false": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=false,context=300k,effort=max,fast=true": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=false,context=1m,effort=low,fast=false": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=false,context=1m,effort=low,fast=true": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=false,context=1m,effort=medium,fast=false": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=false,context=1m,effort=medium,fast=true": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=false,context=1m,effort=high,fast=false": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=false,context=1m,effort=high,fast=true": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=false,context=1m,effort=xhigh,fast=false": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=false,context=1m,effort=xhigh,fast=true": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=false,context=1m,effort=max,fast=false": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=false,context=1m,effort=max,fast=true": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=true,context=300k,effort=low,fast=false": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=true,context=300k,effort=low,fast=true": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=true,context=300k,effort=medium,fast=false": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=true,context=300k,effort=medium,fast=true": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=true,context=300k,effort=high,fast=false": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=true,context=300k,effort=high,fast=true": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=true,context=300k,effort=xhigh,fast=false": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=true,context=300k,effort=xhigh,fast=true": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=true,context=300k,effort=max,fast=false": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=true,context=300k,effort=max,fast=true": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=true,context=1m,effort=low,fast=false": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=true,context=1m,effort=low,fast=true": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=true,context=1m,effort=medium,fast=false": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=true,context=1m,effort=medium,fast=true": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=true,context=1m,effort=high,fast=false": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=true,context=1m,effort=high,fast=true": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=true,context=1m,effort=xhigh,fast=false": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=true,context=1m,effort=xhigh,fast=true": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=true,context=1m,effort=max,fast=false": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-7@cyber=false,thinking=true,context=1m,effort=max,fast=true": {
+    "id": "claude-opus-4-7",
+    "params": [
+      {
+        "id": "cyber",
+        "value": "false"
+      },
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.4": {
+    "id": "gpt-5.4",
+    "params": []
+  },
+  "gpt-5.4@context=272k,reasoning=none,fast=false": {
+    "id": "gpt-5.4",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "none"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.4@context=272k,reasoning=none,fast=true": {
+    "id": "gpt-5.4",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "none"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.4@context=272k,reasoning=low,fast=false": {
+    "id": "gpt-5.4",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.4@context=272k,reasoning=low,fast=true": {
+    "id": "gpt-5.4",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.4@context=272k,reasoning=medium,fast=false": {
+    "id": "gpt-5.4",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.4@context=272k,reasoning=medium,fast=true": {
+    "id": "gpt-5.4",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.4@context=272k,reasoning=high,fast=false": {
+    "id": "gpt-5.4",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.4@context=272k,reasoning=high,fast=true": {
+    "id": "gpt-5.4",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.4@context=272k,reasoning=extra-high,fast=false": {
+    "id": "gpt-5.4",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "extra-high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.4@context=272k,reasoning=extra-high,fast=true": {
+    "id": "gpt-5.4",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "extra-high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.4@context=1m,reasoning=none,fast=false": {
+    "id": "gpt-5.4",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "none"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.4@context=1m,reasoning=low,fast=false": {
+    "id": "gpt-5.4",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.4@context=1m,reasoning=medium,fast=false": {
+    "id": "gpt-5.4",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.4@context=1m,reasoning=high,fast=false": {
+    "id": "gpt-5.4",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.4@context=1m,reasoning=extra-high,fast=false": {
+    "id": "gpt-5.4",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "extra-high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-6": {
+    "id": "claude-opus-4-6",
+    "params": []
+  },
+  "claude-opus-4-6@thinking=false,context=200k,effort=low": {
+    "id": "claude-opus-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "200k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-opus-4-6@thinking=false,context=200k,effort=medium": {
+    "id": "claude-opus-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "200k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-opus-4-6@thinking=false,context=200k,effort=high": {
+    "id": "claude-opus-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "200k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-opus-4-6@thinking=false,context=200k,effort=max": {
+    "id": "claude-opus-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "200k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-opus-4-6@thinking=false,context=1m,effort=low": {
+    "id": "claude-opus-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-opus-4-6@thinking=false,context=1m,effort=medium": {
+    "id": "claude-opus-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-opus-4-6@thinking=false,context=1m,effort=high": {
+    "id": "claude-opus-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-opus-4-6@thinking=false,context=1m,effort=max": {
+    "id": "claude-opus-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-opus-4-6@thinking=true,context=200k,effort=low": {
+    "id": "claude-opus-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "200k"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-opus-4-6@thinking=true,context=200k,effort=medium": {
+    "id": "claude-opus-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "200k"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-opus-4-6@thinking=true,context=200k,effort=high": {
+    "id": "claude-opus-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "200k"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-opus-4-6@thinking=true,context=200k,effort=max": {
+    "id": "claude-opus-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "200k"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-opus-4-6@thinking=true,context=1m,effort=low": {
+    "id": "claude-opus-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-opus-4-6@thinking=true,context=1m,effort=medium": {
+    "id": "claude-opus-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-opus-4-6@thinking=true,context=1m,effort=high": {
+    "id": "claude-opus-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-opus-4-6@thinking=true,context=1m,effort=max": {
+    "id": "claude-opus-4-6",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-opus-4-5": {
+    "id": "claude-opus-4-5",
+    "params": []
+  },
+  "claude-opus-4-5@thinking=false": {
+    "id": "claude-opus-4-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-opus-4-5@thinking=true": {
+    "id": "claude-opus-4-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.2": {
+    "id": "gpt-5.2",
+    "params": []
+  },
+  "gpt-5.2@reasoning=low,fast=false": {
+    "id": "gpt-5.2",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.2@reasoning=low,fast=true": {
+    "id": "gpt-5.2",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.2@reasoning=medium,fast=false": {
+    "id": "gpt-5.2",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.2@reasoning=medium,fast=true": {
+    "id": "gpt-5.2",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.2@reasoning=high,fast=false": {
+    "id": "gpt-5.2",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.2@reasoning=high,fast=true": {
+    "id": "gpt-5.2",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.2@reasoning=extra-high,fast=false": {
+    "id": "gpt-5.2",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "extra-high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.2@reasoning=extra-high,fast=true": {
+    "id": "gpt-5.2",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "extra-high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-luna": {
+    "id": "gpt-5.6-luna",
+    "params": []
+  },
+  "gpt-5.6-luna@context=272k,reasoning=none,fast=false": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "none"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=272k,reasoning=none,fast=true": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "none"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=272k,reasoning=low,fast=false": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=272k,reasoning=low,fast=true": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=272k,reasoning=medium,fast=false": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=272k,reasoning=medium,fast=true": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=272k,reasoning=high,fast=false": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=272k,reasoning=high,fast=true": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=272k,reasoning=xhigh,fast=false": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=272k,reasoning=xhigh,fast=true": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=272k,reasoning=max,fast=false": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=272k,reasoning=max,fast=true": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "272k"
+      },
+      {
+        "id": "reasoning",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=1m,reasoning=none,fast=false": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "none"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=1m,reasoning=none,fast=true": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "none"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=1m,reasoning=low,fast=false": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=1m,reasoning=low,fast=true": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "low"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=1m,reasoning=medium,fast=false": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=1m,reasoning=medium,fast=true": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "medium"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=1m,reasoning=high,fast=false": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=1m,reasoning=high,fast=true": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "high"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=1m,reasoning=xhigh,fast=false": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=1m,reasoning=xhigh,fast=true": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "xhigh"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=1m,reasoning=max,fast=false": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "false"
+      }
+    ]
+  },
+  "gpt-5.6-luna@context=1m,reasoning=max,fast=true": {
+    "id": "gpt-5.6-luna",
+    "params": [
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning",
+        "value": "max"
+      },
+      {
+        "id": "fast",
+        "value": "true"
+      }
+    ]
+  },
+  "gemini-3.6-flash": {
+    "id": "gemini-3.6-flash",
+    "params": []
+  },
+  "gemini-3.6-flash@effort=minimal": {
+    "id": "gemini-3.6-flash",
+    "params": [
+      {
+        "id": "effort",
+        "value": "minimal"
+      }
+    ]
+  },
+  "gemini-3.6-flash@effort=low": {
+    "id": "gemini-3.6-flash",
+    "params": [
+      {
+        "id": "effort",
+        "value": "low"
+      }
+    ]
+  },
+  "gemini-3.6-flash@effort=medium": {
+    "id": "gemini-3.6-flash",
+    "params": [
+      {
+        "id": "effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "gemini-3.6-flash@effort=high": {
+    "id": "gemini-3.6-flash",
+    "params": [
+      {
+        "id": "effort",
+        "value": "high"
+      }
+    ]
+  },
+  "gemini-3.1-pro": {
+    "id": "gemini-3.1-pro",
+    "params": []
+  },
+  "gpt-5.4-mini": {
+    "id": "gpt-5.4-mini",
+    "params": []
+  },
+  "gpt-5.4-mini@reasoning=none": {
+    "id": "gpt-5.4-mini",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "none"
+      }
+    ]
+  },
+  "gpt-5.4-mini@reasoning=low": {
+    "id": "gpt-5.4-mini",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "low"
+      }
+    ]
+  },
+  "gpt-5.4-mini@reasoning=medium": {
+    "id": "gpt-5.4-mini",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "medium"
+      }
+    ]
+  },
+  "gpt-5.4-mini@reasoning=high": {
+    "id": "gpt-5.4-mini",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "high"
+      }
+    ]
+  },
+  "gpt-5.4-mini@reasoning=xhigh": {
+    "id": "gpt-5.4-mini",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "gpt-5.4-nano": {
+    "id": "gpt-5.4-nano",
+    "params": []
+  },
+  "gpt-5.4-nano@reasoning=none": {
+    "id": "gpt-5.4-nano",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "none"
+      }
+    ]
+  },
+  "gpt-5.4-nano@reasoning=low": {
+    "id": "gpt-5.4-nano",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "low"
+      }
+    ]
+  },
+  "gpt-5.4-nano@reasoning=medium": {
+    "id": "gpt-5.4-nano",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "medium"
+      }
+    ]
+  },
+  "gpt-5.4-nano@reasoning=high": {
+    "id": "gpt-5.4-nano",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "high"
+      }
+    ]
+  },
+  "gpt-5.4-nano@reasoning=xhigh": {
+    "id": "gpt-5.4-nano",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "claude-haiku-5-5": {
+    "id": "claude-haiku-5-5",
+    "params": []
+  },
+  "claude-haiku-5-5@thinking=false,context=300k,reasoning_effort=low": {
+    "id": "claude-haiku-5-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-haiku-5-5@thinking=false,context=300k,reasoning_effort=medium": {
+    "id": "claude-haiku-5-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-haiku-5-5@thinking=false,context=300k,reasoning_effort=high": {
+    "id": "claude-haiku-5-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-haiku-5-5@thinking=false,context=300k,reasoning_effort=xhigh": {
+    "id": "claude-haiku-5-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "claude-haiku-5-5@thinking=false,context=300k,reasoning_effort=max": {
+    "id": "claude-haiku-5-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-haiku-5-5@thinking=false,context=1m,reasoning_effort=low": {
+    "id": "claude-haiku-5-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-haiku-5-5@thinking=false,context=1m,reasoning_effort=medium": {
+    "id": "claude-haiku-5-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-haiku-5-5@thinking=false,context=1m,reasoning_effort=high": {
+    "id": "claude-haiku-5-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-haiku-5-5@thinking=false,context=1m,reasoning_effort=xhigh": {
+    "id": "claude-haiku-5-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "claude-haiku-5-5@thinking=false,context=1m,reasoning_effort=max": {
+    "id": "claude-haiku-5-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-haiku-5-5@thinking=true,context=300k,reasoning_effort=low": {
+    "id": "claude-haiku-5-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-haiku-5-5@thinking=true,context=300k,reasoning_effort=medium": {
+    "id": "claude-haiku-5-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-haiku-5-5@thinking=true,context=300k,reasoning_effort=high": {
+    "id": "claude-haiku-5-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-haiku-5-5@thinking=true,context=300k,reasoning_effort=xhigh": {
+    "id": "claude-haiku-5-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "claude-haiku-5-5@thinking=true,context=300k,reasoning_effort=max": {
+    "id": "claude-haiku-5-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "300k"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-haiku-5-5@thinking=true,context=1m,reasoning_effort=low": {
+    "id": "claude-haiku-5-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "low"
+      }
+    ]
+  },
+  "claude-haiku-5-5@thinking=true,context=1m,reasoning_effort=medium": {
+    "id": "claude-haiku-5-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "medium"
+      }
+    ]
+  },
+  "claude-haiku-5-5@thinking=true,context=1m,reasoning_effort=high": {
+    "id": "claude-haiku-5-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "high"
+      }
+    ]
+  },
+  "claude-haiku-5-5@thinking=true,context=1m,reasoning_effort=xhigh": {
+    "id": "claude-haiku-5-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "xhigh"
+      }
+    ]
+  },
+  "claude-haiku-5-5@thinking=true,context=1m,reasoning_effort=max": {
+    "id": "claude-haiku-5-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "1m"
+      },
+      {
+        "id": "reasoning_effort",
+        "value": "max"
+      }
+    ]
+  },
+  "claude-haiku-4-5": {
+    "id": "claude-haiku-4-5",
+    "params": []
+  },
+  "claude-haiku-4-5@thinking=false": {
+    "id": "claude-haiku-4-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      }
+    ]
+  },
+  "claude-haiku-4-5@thinking=true": {
+    "id": "claude-haiku-4-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      }
+    ]
+  },
+  "claude-sonnet-4-5": {
+    "id": "claude-sonnet-4-5",
+    "params": []
+  },
+  "claude-sonnet-4-5@thinking=false,context=200k": {
+    "id": "claude-sonnet-4-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "200k"
+      }
+    ]
+  },
+  "claude-sonnet-4-5@thinking=true,context=200k": {
+    "id": "claude-sonnet-4-5",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "200k"
+      }
+    ]
+  },
+  "gpt-5.1": {
+    "id": "gpt-5.1",
+    "params": []
+  },
+  "gpt-5.1@reasoning=low": {
+    "id": "gpt-5.1",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "low"
+      }
+    ]
+  },
+  "gpt-5.1@reasoning=medium": {
+    "id": "gpt-5.1",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "medium"
+      }
+    ]
+  },
+  "gpt-5.1@reasoning=high": {
+    "id": "gpt-5.1",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "high"
+      }
+    ]
+  },
+  "gemini-3-flash": {
+    "id": "gemini-3-flash",
+    "params": []
+  },
+  "gemini-3.5-flash": {
+    "id": "gemini-3.5-flash",
+    "params": []
+  },
+  "claude-sonnet-4": {
+    "id": "claude-sonnet-4",
+    "params": []
+  },
+  "claude-sonnet-4@thinking=false,context=200k": {
+    "id": "claude-sonnet-4",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "false"
+      },
+      {
+        "id": "context",
+        "value": "200k"
+      }
+    ]
+  },
+  "claude-sonnet-4@thinking=true,context=200k": {
+    "id": "claude-sonnet-4",
+    "params": [
+      {
+        "id": "thinking",
+        "value": "true"
+      },
+      {
+        "id": "context",
+        "value": "200k"
+      }
+    ]
+  },
+  "gpt-5-mini": {
+    "id": "gpt-5-mini",
+    "params": []
+  },
+  "gemini-2.5-flash": {
+    "id": "gemini-2.5-flash",
+    "params": []
+  },
+  "kimi-k3": {
+    "id": "kimi-k3",
+    "params": []
+  },
+  "kimi-k3@reasoning=low": {
+    "id": "kimi-k3",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "low"
+      }
+    ]
+  },
+  "kimi-k3@reasoning=high": {
+    "id": "kimi-k3",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "high"
+      }
+    ]
+  },
+  "kimi-k3@reasoning=max": {
+    "id": "kimi-k3",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "max"
+      }
+    ]
+  },
+  "kimi-k2.7-code": {
+    "id": "kimi-k2.7-code",
+    "params": []
+  },
+  "glm-5.2": {
+    "id": "glm-5.2",
+    "params": []
+  },
+  "glm-5.2@reasoning=high": {
+    "id": "glm-5.2",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "high"
+      }
+    ]
+  },
+  "glm-5.2@reasoning=max": {
+    "id": "glm-5.2",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "max"
+      }
+    ]
+  },
+  "glm-5p3": {
+    "id": "glm-5p3",
+    "params": []
+  },
+  "glm-5p3@reasoning=low": {
+    "id": "glm-5p3",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "low"
+      }
+    ]
+  },
+  "glm-5p3@reasoning=high": {
+    "id": "glm-5p3",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "high"
+      }
+    ]
+  },
+  "glm-5p3@reasoning=max": {
+    "id": "glm-5p3",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "max"
+      }
+    ]
+  },
+  "glm-5p3-flash": {
+    "id": "glm-5p3-flash",
+    "params": []
+  },
+  "glm-5p3-flash@reasoning=low": {
+    "id": "glm-5p3-flash",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "low"
+      }
+    ]
+  },
+  "glm-5p3-flash@reasoning=high": {
+    "id": "glm-5p3-flash",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "high"
+      }
+    ]
+  },
+  "glm-5p3-flash@reasoning=max": {
+    "id": "glm-5p3-flash",
+    "params": [
+      {
+        "id": "reasoning",
+        "value": "max"
+      }
+    ]
+  }
+}

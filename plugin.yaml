@@ -1,0 +1,9 @@
+name: cursor-sdk
+kind: model-provider
+version: 0.1.0
+description: Experimental model transport using the official Cursor Agent SDK
+provides:
+  - providers
+requires_hermes: ">=0.22.0"
+requires_env:
+  - CURSOR_API_KEY
